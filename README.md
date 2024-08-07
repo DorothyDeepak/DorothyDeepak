@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dorothy Deepak
-- 👀 I’m interested in Data which lead me into the fieled of Data Analytics
+- 👀 I’m interested in working with Data, which ultimately lead me into Data Analytics
 - 🌱 I’m currently learning courses on Power BI, SQL,Excel, Tableau and Python
 - 💞️ I’m looking to collaborate on Data Analytics projects that yields me a career.
 - 📫 How to reach me - my mail id:dorothymaria1803@gmail.com
